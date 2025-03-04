@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		Profesor profesor1 = new Profesor("Adolfo", 18, "Hombre", "Española");
+		Profesor profesor1 = new Profesor("Adolfo", 18, "Hombre", "Española", 54);
 		Alumno alumno1 = new Alumno("Ángel", 18, "Hombre", "Española");
 		System.out.println(profesor1);
 		System.out.println(alumno1);
